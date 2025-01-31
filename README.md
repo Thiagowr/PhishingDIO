@@ -15,21 +15,21 @@ setoolkit
 ```
 3. Tipo de ataque:
 ```
-Social-Engineering Attacks
+1-Social-Engineering Attacks
 ```
 4. Vetor de ataque:
 ```
-Web Site Attack Vectors
+2-Web Site Attack Vectors
 ```
 5. Método de ataque:
 ```
-Credential Harvester Attack Method
+3-Credential Harvester Attack Method
 ```
 6. Método de ataque:
 ```
-Site Cloner
+2-Site Cloner
 ```
-7. Obtendo o endereço da máquina:
+7. Obtendo o endereço da máquina em outro terminal:
 ```
 ifconfig
 ```
